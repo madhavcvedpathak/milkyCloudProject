@@ -12,15 +12,33 @@ Flutter & Dart
 Firebase Firestore
 PDF Generation
 
-![Home Screen](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/1.jpg)
-![Farmer List](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/2.jpg)
-![Milk Collection Screen](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/3.jpg)
-![Report Screen](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/4.jpg)
-![PDF Report](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/5.jpg)
-![Transport Estimation](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/6.jpg)
-![Past Collections](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/7.jpg)
-![Settings Screen](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/8.jpg)
-![Contact Screen](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/9.jpg)
+<h3>🏡 Home Screen</h3>
+<img src="https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/1.jpg" width="300">
+
+<h3>📋 Farmer Register</h3>
+<img src="https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/2.jpg" width="300">
+
+<h3>🥛 Registered Farmers</h3>
+<img src="https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/3.jpg" width="300">
+
+<h3>📊 Milk Collection</h3>
+<img src="https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/4.jpg" width="300">
+
+<h3>📄 SNF & Amount Calculate</h3>
+<img src="https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/5.jpg" width="300">
+
+<h3>🚚 Past Collection Date</h3>
+<img src="https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/6.jpg" width="300">
+
+<h3>🔍 Past Collections Display For Date</h3>
+<img src="https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/7.jpg" width="300">
+
+<h3>⚙️ Report Of Collection</h3>
+<img src="https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/8.jpg" width="300">
+
+<h3>📧 Transport Cost Estimation</h3>
+<img src="https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/9.jpg" width="300">
+
 
 
 📧 Contact:
