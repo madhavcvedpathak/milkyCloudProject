@@ -12,7 +12,16 @@ Flutter & Dart
 Firebase Firestore
 PDF Generation
 
-[Alt Text](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/1.jpg)
+![Home Screen](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/1.jpg)
+![Farmer List](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/2.jpg)
+![Milk Collection Screen](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/3.jpg)
+![Report Screen](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/4.jpg)
+![PDF Report](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/5.jpg)
+![Transport Estimation](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/6.jpg)
+![Past Collections](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/7.jpg)
+![Settings Screen](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/8.jpg)
+![Contact Screen](https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/9.jpg)
+
 
 📧 Contact:
 For queries, visit: madhavcvedpathak
