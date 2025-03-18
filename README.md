@@ -34,10 +34,10 @@ PDF Generation
 <img src="https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/7.jpg" width="300">
 
 <h3>⚙️ Report Of Collection</h3>
-<img src="https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/8.jpg" width="300">
+<img src="https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/9.jpg" width="300">
 
 <h3>📧 Transport Cost Estimation</h3>
-<img src="https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/9.jpg" width="300">
+<img src="https://github.com/madhavcvedpathak/milkyCloudProject/blob/main/8.jpg" width="300">
 
 
 
