@@ -1,16 +1,16 @@
-# milk_calculator
+🥛 Milky Cloud Project
+Milky Cloud Project is a Flutter app designed for dairy agencies to manage farmer records, automate milk collection, and generate PDF reports. It auto-selects farmer IDs, milk type (cow/buffalo), and calculates QTY, FAT, CLR, SNF, RATE, and AMOUNT, storing data in Firebase Firestore. The app also provides day-wise milk collection reports and estimates transportation costs efficiently.
 
-A Milky Flutter project.
+🚀 Features:
+Add, edit, and delete farmer records.
+Auto-fetch milk collection details and save to Firestore.
+Generate detailed PDF reports.
+Estimate transportation costs.
 
-## Getting Started
+📚 Technologies Used:
+Flutter & Dart
+Firebase Firestore
+PDF Generation
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📧 Contact:
+For queries, visit: madhavcvedpathak
